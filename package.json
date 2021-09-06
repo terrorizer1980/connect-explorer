@@ -19,7 +19,7 @@
         "flow": "cd src/js && flow check"
     },
     "dependencies": {
-        "connected-react-router": "6.0.0",
+        "connected-react-router": "6.9.1",
         "markdown-it": "^8.4.2",
         "markdown-it-link-attributes": "^2.1.0",
         "markdown-it-replace-link": "^1.0.1",
